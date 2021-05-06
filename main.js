@@ -1,4 +1,4 @@
-var names = ['Frank', 'Anna', 'Bob', 'Sarah'];
+let names = ['Frank', 'Anna', 'Bob', 'Sarah'];
 
 for (i =0; i < names.length; i++) {
 
